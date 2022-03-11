@@ -69,5 +69,3 @@
 
 <br>
 <br>
-
-![](../images/rest-api.jpg)
