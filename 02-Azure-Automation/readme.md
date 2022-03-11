@@ -16,6 +16,8 @@
 
 ## (All Azure Services) is made with REST API {JSON}
 
+![](../images/rest-api.jpg)
+
 ## (Automation Level: No Automation)
 - https://portal.azure.com
   - Great for exploring 
