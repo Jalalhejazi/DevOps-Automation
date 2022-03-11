@@ -1,0 +1,13 @@
+{
+  "name": "powershell-automation",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jalalhejazi/DevOps-Automation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jalalhejazi/DevOps-Automation/issues"
+  },
+  "homepage": "https://github.com/Jalalhejazi/DevOps-Automation#readme"
+}
