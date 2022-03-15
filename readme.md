@@ -2,6 +2,8 @@
 
 
 ```
+├───.github
+│   └───workflows
 ├───01-PowerShell-Automation
 │   ├───00-Windows-Automation
 │   │   ├───Windows Package Managers
@@ -26,8 +28,10 @@
 │   └───Azure-cli
 ├───03-Azure-DevOps-Automation
 │   ├───Azure-DevOps-Community
-│   ├───Azure-DevOps-on-Cloud
-│   
+│   └───Azure-DevOps-on-Cloud
+├───04-Docker-Automation
+│   ├───00-Research
+│   └───01-Discovery-Commands
 └───images
 
 ```
